@@ -15,11 +15,13 @@
 使用流量卡路由器+加密混淆工具，百分百安全；
 # 🛠️ 下载地址：
 **ETH**:<br>
-[W10-E池混淆加密.zip](https://github.com/minerproxyutils/miner-proxy/files/8213112/W10-E.zip)<br>
-[W10-鱼池混淆加密.zip](https://github.com/minerproxyutils/miner-proxy/files/8213116/W10-.zip)<br>
-[W10-币印混淆加密.zip](https://github.com/minerproxyutils/miner-proxy/files/8213118/W10-.zip)<br>
+
 [W10-欧意混淆加密.zip](https://github.com/minerproxyutils/miner-proxy/files/8213121/W10-.zip)<br>
 [W10-蚂蚁混淆加密.zip](https://github.com/minerproxyutils/miner-proxy/files/8213122/W10-.zip)<br>
+[W10-E池混淆加密151.zip](https://github.com/minerproxyutils/miner-proxy/files/8245306/W10-E.151.zip)<br>
+[W10-鱼池混淆加密98.zip](https://github.com/minerproxyutils/miner-proxy/files/8245302/W10-.98.zip)<br>
+[W10-币印混淆加密143.zip](https://github.com/minerproxyutils/miner-proxy/files/8245305/W10-.143.zip)<br>
+
 **其他币种可以私聊定制**
 
 # 🛠️ 安装视频
