@@ -19,8 +19,8 @@
 [W10-欧意混淆加密.zip](https://github.com/minerproxyutils/miner-proxy/files/8213121/W10-.zip)<br>
 [W10-蚂蚁混淆加密.zip](https://github.com/minerproxyutils/miner-proxy/files/8213122/W10-.zip)<br>
 [W10-E池混淆加密151.zip](https://github.com/minerproxyutils/miner-proxy/files/8245306/W10-E.151.zip)<br>
-[W10-币印混淆加密143.zip](https://github.com/minerproxyutils/miner-proxy/files/8245305/W10-.143.zip)<br>
 [W10-鱼池混淆加密163.zip](https://github.com/minerproxyutils/miner-proxy/files/8312829/W10-.163.zip)<br>
+[W10-币印混淆加密164.zip](https://github.com/minerproxyutils/miner-proxy/files/8312870/W10-.164.zip)<br>
 
 **其他币种可以私聊定制**
 
