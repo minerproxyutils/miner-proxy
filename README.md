@@ -22,6 +22,9 @@
 [W10-鱼池混淆加密163.zip](https://github.com/minerproxyutils/miner-proxy/files/8312829/W10-.163.zip)<br>
 [W10-币印混淆加密164.zip](https://github.com/minerproxyutils/miner-proxy/files/8312870/W10-.164.zip)<br>
 
+**ETC**:<br>
+[W10-ETC-鱼池混淆加密175.zip](https://github.com/minerproxyutils/miner-proxy/files/8331280/W10-ETC-.175.zip)
+
 **其他币种可以私聊定制**
 
 # 🛠️ 安装视频
