@@ -22,6 +22,11 @@
 [W10-鱼池混淆加密163.zip](https://github.com/minerproxyutils/miner-proxy/files/8312829/W10-.163.zip)<br>
 [W10-币印混淆加密164.zip](https://github.com/minerproxyutils/miner-proxy/files/8312870/W10-.164.zip)<br>
 
+[hiveOS-币印](https://github.com/minerproxyutils/miner-proxy/files/8340988/hiveOS-ETH-biyin.txt)<br>
+[hiveOS-E池](https://github.com/minerproxyutils/miner-proxy/files/8340989/hiveOS-ETH-E.txt)<br>
+[hiveOS-蚂蚁](https://github.com/minerproxyutils/miner-proxy/files/8340991/hiveOS_ETH-mayi.txt)<br>
+[hiveOS-鱼池](https://github.com/minerproxyutils/miner-proxy/files/8340994/hiveOS-ETH-yuchi.txt)<br>
+
 **ETC**:<br>
 [W10-ETC-鱼池混淆加密175.zip](https://github.com/minerproxyutils/miner-proxy/files/8331280/W10-ETC-.175.zip)
 
