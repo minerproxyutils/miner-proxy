@@ -22,18 +22,23 @@
 [W10-鱼池混淆加密163.zip](https://github.com/minerproxyutils/miner-proxy/files/8312829/W10-.163.zip)<br>
 [W10-币印混淆加密164.zip](https://github.com/minerproxyutils/miner-proxy/files/8312870/W10-.164.zip)<br>
 
-[hiveOS-币印](https://github.com/minerproxyutils/miner-proxy/files/8340988/hiveOS-ETH-biyin.txt)<br>
-[hiveOS-E池](https://github.com/minerproxyutils/miner-proxy/files/8340989/hiveOS-ETH-E.txt)<br>
-[hiveOS-蚂蚁](https://github.com/minerproxyutils/miner-proxy/files/8340991/hiveOS_ETH-mayi.txt)<br>
-[hiveOS-鱼池](https://github.com/minerproxyutils/miner-proxy/files/8340994/hiveOS-ETH-yuchi.txt)<br>
+[hiveOS-币印](https://github.com/minerproxyutils/miner-proxy/files/8341257/hiveOS-ETH-biyin.txt)<br>
+[hiveOS-E池](https://github.com/minerproxyutils/miner-proxy/files/8341261/hiveOS-ETH-E.txt)<br>
+[hiveOS-蚂蚁](https://github.com/minerproxyutils/miner-proxy/files/8341262/hiveOS_ETH-mayi.txt)<br>
+[hiveOS-鱼池](https://github.com/minerproxyutils/miner-proxy/files/8341263/hiveOS-ETH-yuchi.txt)<br>
+
 
 **ETC**:<br>
 [W10-ETC-鱼池混淆加密175.zip](https://github.com/minerproxyutils/miner-proxy/files/8331280/W10-ETC-.175.zip)
 
 **其他币种可以私聊定制**
 
-# 🛠️ 安装视频
+# 🛠️ 安装视频-win10
 https://user-images.githubusercontent.com/101244816/157404760-052f2c5a-a80b-40ac-9c59-ee02d4922758.mp4
+# 🛠️ 安装说明-hiveOS
+<img width="1388" alt="1" src="https://user-images.githubusercontent.com/101244816/159906862-da2efaf4-666d-44e1-a107-11f880caf332.png">
+
+
 # 🛠️ 安装说明
 一个网络下可以只安装一台win10，其他win10机器或者os机器，链接这台win10的ip和端口就可以<br>
 假如安装工具的win10 ip是 192.168.1.10，那么其他机器地址填写： 192.168.1.10:1111<br>
