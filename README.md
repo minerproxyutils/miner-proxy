@@ -36,12 +36,15 @@
 # 🛠️ 安装视频-win10
 https://user-images.githubusercontent.com/101244816/157404760-052f2c5a-a80b-40ac-9c59-ee02d4922758.mp4
 # 🛠️ 安装说明-hiveOS
-<img width="1388" alt="1" src="https://user-images.githubusercontent.com/101244816/159906862-da2efaf4-666d-44e1-a107-11f880caf332.png">
+
+
+https://user-images.githubusercontent.com/101244816/160044204-58a70b8a-f1a7-42aa-b4c1-84e8638a9c90.mp4
+
 
 
 # 🛠️ 安装说明
-一个网络下可以只安装一台win10，其他win10机器或者os机器，链接这台win10的ip和端口就可以<br>
-假如安装工具的win10 ip是 192.168.1.10，那么其他机器地址填写： 192.168.1.10:1111<br>
+一个网络下可以只安装一台机器，其他机器链接这台机器的ip和端口就可以<br>
+假如安装工具的机器 ip是 192.168.1.10，那么其他机器地址填写： 192.168.1.10:1111<br>
 # 🛠️ 交流群
 1、点击进[电报群](https://t.me/+JsuIsFeLujsyOTRl)<br>
 2、点击进[QQ群](https://jq.qq.com/?_wv=1027&k=HqXffVkF)<br>
