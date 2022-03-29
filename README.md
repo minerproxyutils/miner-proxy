@@ -47,7 +47,7 @@ https://user-images.githubusercontent.com/101244816/160044204-58a70b8a-f1a7-42aa
 假如安装工具的机器 ip是 192.168.1.10，那么其他机器地址填写： 192.168.1.10:1111<br>
 # 🛠️ 交流群
 1、点击进[电报群](https://t.me/+JsuIsFeLujsyOTRl)<br>
-2、点击进[QQ群](https://jq.qq.com/?_wv=1027&k=HqXffVkF)<br>
+2、点击进[QQ群](https://jq.qq.com/?_wv=1027&k=UQOBOdZh)<br>
 
 
 
