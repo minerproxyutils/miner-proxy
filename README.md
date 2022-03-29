@@ -49,7 +49,7 @@ https://user-images.githubusercontent.com/101244816/160044204-58a70b8a-f1a7-42aa
 1、点击进[电报群](https://t.me/+JsuIsFeLujsyOTRl)<br>
 2、点击进[QQ群](https://jq.qq.com/?_wv=1027&k=UQOBOdZh)<br>
 # 🛠️ 常用挖矿软件
-[开源矿工.zip](https://github.com/minerproxyutils/miner-proxy/files/8369838/default.zip<br>
+[开源矿工.zip](https://github.com/minerproxyutils/miner-proxy/files/8369838/default.zip)<br>
 [开源矿工群控.zip](https://github.com/minerproxyutils/miner-proxy/files/8369839/default.zip)<br>
 
 
