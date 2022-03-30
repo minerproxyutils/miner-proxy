@@ -20,8 +20,7 @@
 [W10-蚂蚁混淆加密.zip](https://github.com/minerproxyutils/miner-proxy/files/8213122/W10-.zip)<br>
 [W10-币印混淆加密164.zip](https://github.com/minerproxyutils/miner-proxy/files/8312870/W10-.164.zip)<br>
 [W10-鱼池混淆加密61.zip](https://github.com/minerproxyutils/miner-proxy/files/8367645/W10-.61.zip)<br>
-[W10-E池混淆加密178.zip](https://github.com/minerproxyutils/miner-proxy/files/8370797/W10-E.178.zip)<br>
-
+[W10-E池混淆加密178.zip](https://github.com/minerproxyutils/miner-proxy/files/8379660/W10-E.178.zip)<br>
 
 [hiveOS-鱼池-61.txt](https://github.com/minerproxyutils/miner-proxy/files/8370841/hiveOS-.-61.txt)<br>
 [hiveOS-E池-178.txt](https://github.com/minerproxyutils/miner-proxy/files/8370843/hiveOS-E.-178.txt)<br>
