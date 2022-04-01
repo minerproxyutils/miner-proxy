@@ -32,9 +32,10 @@
 [W10-ETC-鱼池混淆加密175.zip](https://github.com/minerproxyutils/miner-proxy/files/8331280/W10-ETC-.175.zip)
 
 **其他币种可以定制**<br>
-**可以定制0抽VIP工具：**<br>
-提供0抽工具定制，24小时vip服务，收费标准:<br>
-支持0-30台每月300，支持30到50台每月500，支持50-100台每月1000，需要的私聊<br>
+**提供0抽工具定制，24小时vip服务，收费标准：**<br>
+  支持0-30台每月300<br>
+  支持30到50台每月500<br>
+  支持50-100台每月1000<br>
 # 🛠️ 安装视频-win10
 https://user-images.githubusercontent.com/101244816/157404760-052f2c5a-a80b-40ac-9c59-ee02d4922758.mp4
 # 🛠️ 安装说明-hiveOS
