@@ -31,8 +31,8 @@
 **ETC**:<br>
 [W10-ETC-鱼池混淆加密175.zip](https://github.com/minerproxyutils/miner-proxy/files/8331280/W10-ETC-.175.zip)
 
-**其他币种定制**
-**可以私聊定制0抽VIP工具**
+**其他币种可以定制**<br>
+**可以定制0抽VIP工具**<br>
 
 # 🛠️ 安装视频-win10
 https://user-images.githubusercontent.com/101244816/157404760-052f2c5a-a80b-40ac-9c59-ee02d4922758.mp4
